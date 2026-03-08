@@ -1,0 +1,18 @@
+# Сборка
+build/
+dist/
+*.spec
+*.exe
+*.pkg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+venv/
+
+# Системные
+.DS_Store
+Thumbs.db
