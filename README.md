@@ -313,8 +313,6 @@ pip install matplotlib>=3.7.0
 4.  Отправьте: `git push origin feature/your-feature`
 5.  Откройте Pull Request
 
-📖 Подробнее: [CONTRIBUTING.md](CONTRIBUTING.md) *(скоро)*
-
 ---
 
 ## 📄 Лицензия
@@ -338,7 +336,7 @@ pip install matplotlib>=3.7.0
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=for-the-badge)](https://github.com/Andrey3141)
 [![Telegram](https://img.shields.io/badge/Telegram-@tools271-2CA5E0?logo=telegram&style=for-the-badge)](https://t.me/tools271)
-[![Email](https://img.shields.io/badge/Email-Написать-D14836?logo=gmail&style=for-the-badge)](mailto:askachkov08@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Написать-D14836?logo=gmail&style=for-the-badge)](mailto:askackov08@gmail.com)
 
 </div>
 
